@@ -63,6 +63,7 @@ Visual Studio Code에서 파일 > 파일 열기 를 클릭해, 다운받은 poly
 ![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/a12adf03-b790-43b2-9d48-ac945d387909)  
   
 ▷ 버튼을 누르면 해당 블록의 코드를 실행할 수 있습니다.
+<br>
 
 ※ polyglot 노트북에서 수정이 필요한 부분  
   
