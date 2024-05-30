@@ -36,8 +36,9 @@ IDE(Visioual Studio Code)에서 Vision AI 솔루션 만들기 실습을 위한 �
 <br>
 <br>  
 
-### 3. polyglot 노트북  
-제공된 polyglot 노트북을 다운받고, Visual Studio Code에서 해당 파일을 열어 실행하기
+## 3. polyglot 노트북  
+제공된 polyglot 노트북을 다운받고, Visual Studio Code에서 해당 파일을 열어 실행하기  
+
 
 
 
