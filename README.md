@@ -36,8 +36,25 @@ IDE(Visioual Studio Code)에서 Vision AI 솔루션 만들기 실습을 위한 �
 <br>
 <br>  
 
-## 3. polyglot 노트북  
-제공된 polyglot 노트북을 다운받고, Visual Studio Code에서 해당 파일을 열어 실행하기  
+## 3. polyglot 노트북 실행하기  
+  
+➤[Polyglot 노트북 다운받기](https://github.com/pmj-chosim/Vision_Odessy_Guide/blob/main/VisionAIDemo.ipynb)   
+
+위 링크에서 polyglot 노트북 파일을 다운 받습니다.  
+![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/14f9b64d-cbd5-4db2-b8c1-a6285457b355)  
+
+Visual Studio Code에서 파일 > 파일 열기 를 클릭해, 다운받은 polyglot 노트북을 선택합니다.  
+
+[MS AI Odessy Vision Solution 가이드 ](https://learn.microsoft.com/ko-kr/training/challenges?id=ac42a113-3959-4e04-ba27-328567df7051&WT.mc_id=cloudskillschallenge_ac42a113-3959-4e04-ba27-328567df7051&ocid=Odyssey24_csc_fsi_India_wwl) 문서와 함께 polyglot 노트북을 함께 실행합니다.  
+
+
+* polyglot 노트북에서 코드 실행하는 방법
+  
+![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/a12adf03-b790-43b2-9d48-ac945d387909)  
+  
+▶ 버튼을 누르면 해당 블록의 코드를 실행할 수 있습니다.
+
+
 
 
 
