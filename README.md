@@ -26,9 +26,18 @@ IDE(Visioual Studio Code)에서 Vision AI 솔루션 만들기 실습을 위한 �
      
    NuGet Package Manager를 확장에서 검색해 설치합니다.
      
-![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/9e33e0eb-8c26-42e9-b54b-2d7a0fd0edee)
+![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/9e33e0eb-8c26-42e9-b54b-2d7a0fd0edee)  
 
+4. C# 관련 확장 설치하기 <br>  
+  C# Dev Kit, C#을 확장에서 설치합니다.
+  
+![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/2cfd5875-c919-4e89-836b-ea6ed6015bdf)
 
+<br>
+<br>  
+
+### 3. polyglot 노트북  
+제공된 polyglot 노트북을 다운받고, Visual Studio Code에서 해당 파일을 열어 실행하기
 
 
 
