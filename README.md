@@ -10,5 +10,7 @@ Azure 서비스를 이용하려면 Azure에 먼저 가입을 해야 합니다.
 ### ➤ [성인 : Azure 가입하기](https://azure.microsoft.com/ko-kr/get-started/azure-portal)   
 <br>  
 
-## 2.
+## 2. IDE에서 개발 환경 셋팅하기  
+IDE(Visioual Studio Code)에서 Vision AI 솔루션 만들기 실습을 위한 환경을 셋팅하겠습니다.  
+
 
