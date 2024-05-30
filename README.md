@@ -58,11 +58,21 @@ Visual Studio Code에서 파일 > 파일 열기 를 클릭해, 다운받은 poly
 <br>
 <br>
 
-* polyglot 노트북에서 코드 실행하는 방법
+※ polyglot 노트북에서 코드 실행하는 방법
   
 ![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/a12adf03-b790-43b2-9d48-ac945d387909)  
   
 ▷ 버튼을 누르면 해당 블록의 코드를 실행할 수 있습니다.
+
+※ polyglot 노트북에서 수정이 필요한 부분  
+  
+* 사용할 이미지의 주소
+  본인 컴퓨터에서의 이미지 주소로 대체합니다.   
+![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/7ee426f6-902e-4357-905e-bb0459d2569b)
+
+* API 인증
+  본인의 API 키와 엔드포인트로 수정합니다.  
+![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/ab2a8e8c-6b64-4acf-8d75-f3104d46bca8)
 
 
 
