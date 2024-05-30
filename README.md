@@ -78,8 +78,3 @@ Visual Studio Code에서 파일 > 파일 열기 를 클릭해, 다운받은 poly
 ![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/ab2a8e8c-6b64-4acf-8d75-f3104d46bca8)
 
 
-
-
-
-
-
