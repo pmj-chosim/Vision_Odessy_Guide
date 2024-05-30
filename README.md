@@ -22,7 +22,7 @@ IDE(Visioual Studio Code)에서 Vision AI 솔루션 만들기 실습을 위한 �
      
 ![image](https://github.com/pmj-chosim/Vision_Odessy_Guide/assets/114579651/455d028f-b39e-4b28-92cb-376fba1a1111)  
 
-4. NuGet Package Manager 설치하기  <br>
+3. NuGet Package Manager 설치하기  <br>
      
    NuGet Package Manager를 확장에서 검색해 설치합니다.
      
